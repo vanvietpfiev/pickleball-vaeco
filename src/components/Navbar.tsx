@@ -35,7 +35,7 @@ export default function Navbar() {
             <div className="w-8 h-8 bg-white/10 rounded-xl flex items-center justify-center text-base">🏓</div>
             <div>
               <span className="font-black text-white text-base tracking-tight">Pickleball</span>
-              <span className="font-light text-blue-200 text-base ml-1">VNA</span>
+              <span className="font-light text-blue-200 text-base ml-1">VAECO</span>
             </div>
           </Link>
 
